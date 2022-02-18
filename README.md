@@ -1,6 +1,9 @@
 # GRIP-Assignment-3
 ## using Power BI
 ### Exploratory Data Analysis Retail
+
+[SampleSuperstore dataset](https://bit.ly/3i4rbWl)
+
 Perform 'Exploratory Data Analysis' on dataset SampleSuperstore'
 As a business manager. try to find out the weak areas where can
 work to make more profit.
